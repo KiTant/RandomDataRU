@@ -1,2 +1,12 @@
 # RandomDataRU
-Random russian people generator in python with ui (made with modules: customtkinter, requests, CTkMessagebox)
+Random russian people data generator in python with ui
+
+## Used modules:
+- customtkinter
+- requests
+- CTkMessagebox
+
+### [Used API service - randomdatatools](https://api.randomdatatools.ru/?)
+
+## Screenshot:
+![Program screenshot](https://github.com/KiTant/RandomDataRU/blob/main/ScreenshotOfProgram.PNG)
